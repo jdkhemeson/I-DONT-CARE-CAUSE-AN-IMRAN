@@ -1,0 +1,8 @@
+body{
+    background-color:palevioletred ;
+}
+#camera{
+border:2px dashed ridge red ;
+width: 350px;
+height: 300px;
+}
